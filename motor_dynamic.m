@@ -4,7 +4,7 @@ function motor_dynamic(block)
 %   Copyright 1990-2009 The MathWorks, Inc.
 
   setup(block);
-  
+   
 %endfunction
 
 function setup(block)
